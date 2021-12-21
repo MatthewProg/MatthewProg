@@ -11,7 +11,7 @@
 
 <br><hr>
 ### :sparkles: Projects :sparkles:
-🔭 In developement:
+🔭 In development:
 - `Price Tracker` (ASP.NET 6 + Blazor Server + SQL)
 <br>
 
