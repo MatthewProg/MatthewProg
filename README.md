@@ -12,11 +12,11 @@
 <br><hr>
 ### :sparkles: Projects :sparkles:
 🔭 In development:
-- `Price Tracker` (ASP.NET 6 + Blazor Server + SQL)
+- `Price Tracker` (ASP.NET 6 + Blazor Server + MVC + REST API + SQL)
 <br>
 
 :fire: Top completed:
 - <a href="https://github.com/MatthewProg/SmartRoom">`Smart Room`</a> (Xamarin + Arduino)
 - <a href="https://github.com/MatthewProg/RoguelikeGame">`Roguelike Game`</a> (SFML + C++)
-- <a href="https://github.com/MatthewProg/ArduinoConnect">`Arduino Connect`</a> (ASP.NET Core + MVC + SQL + Arduino)
+- <a href="https://github.com/MatthewProg/ArduinoConnect">`Arduino Connect`</a> (ASP.NET Core + MVC + REST API + SQL + Arduino)
 - <a href="https://github.com/MatthewProg/BasicShop">`Basic Shop`</a> (.NET Framework + WPF + SQL)
