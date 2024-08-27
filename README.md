@@ -27,17 +27,23 @@
 <br><hr>
 ### :sparkles: Past Projects :sparkles:
 
+:wrench: Tools I developed and use:
+|Project|Description|Learning goals|
+|-------|-----------|--------------|
+|<a href="https://github.com/MatthewProg/ActivityPaint">`ActivityPaint`</a>|Paint in the Github's activity graph!|<ul><li>Hexagonal Architecture</li><li>Blazor WebAssembly</li><li>MAUI Blazor Hybrid</li></ul>|
+|<a href="https://github.com/MatthewProg/TfiNotifier-node">`TfiNotifier-node`</a>|Get daily email notifications with your stocks price summary|<ul><li>Vercel Serverless</li><li>Web Scraping with Puppeteer</li></ul>|
+
 :bike: Road to Junior Software Engieer:
 |Project|Learning goals|
 |-------|--------------|
-|<a Xamarin href="https://github.com/MatthewProg/SmartRoom">`Smart Room`</a>| <li>Xamarin</li><li>Arduino libraries</li>|
-|<a href="https://github.com/MatthewProg/ArduinoConnect">`Arduino Connect`</a>|<li>ASP.NET Core</li><li>MVC</li><li>REST API</li><li>MS SQL</li><li>Arduino libraries</li>|
-|<a href="https://github.com/MatthewProg/BasicShop">`Basic Shop`</a>|<li>.NET Framework</li><li>WPF</li><li>MS SQL</li>|
+|<a href="https://github.com/MatthewProg/SmartRoom">`SmartRoom`</a>| <li>Xamarin</li><li>Arduino libraries</li>|
+|<a href="https://github.com/MatthewProg/ArduinoConnect">`ArduinoConnect`</a>|<li>ASP.NET Core</li><li>MVC</li><li>REST API</li><li>MS SQL</li><li>Arduino libraries</li>|
+|<a href="https://github.com/MatthewProg/BasicShop">`BasicShop`</a>|<li>.NET Framework</li><li>WPF</li><li>MS SQL</li>|
 
 :video_game: Other for-fun projects:
 
 |Project|Tech stack|
 |-------|----------|
-|<a href="https://github.com/MatthewProg/RoguelikeGame">`Roguelike Game`</a>|<li>C++</li><li>SFML</li>|
+|<a href="https://github.com/MatthewProg/RoguelikeGame">`RoguelikeGame`</a>|<li>C++</li><li>SFML</li>|
 
 >*..and many others..*<br>Salvo of honour to at least 174 never published projects, still present on my hard drive, that helped me become a better programmer!<br>P.S.: Yes, that number is real, I have counted them
